@@ -4,6 +4,8 @@ Add-project-description-here | Voyage-11 | https://chingu.io/ | Twitter: https:/
 
 ## Getting Started
 
+[![Build Status](https://travis-ci.org/chingu-voyages/v11-solo-MyracleDesign.svg?branch=development)](https://travis-ci.org/chingu-voyages/v11-solo-MyracleDesign)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
